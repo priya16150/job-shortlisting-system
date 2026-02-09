@@ -41,7 +41,7 @@ Main.java
 
 ├── ApplicantBST (BST operations)
 
-└── Main (Menu-driven execution)
+|__ Main (Menu-driven execution )               
 ------------------------------------------------------------------------
 ## 📘 Features
 
