@@ -36,8 +36,11 @@ queries are faster using BST pruning
 ## 📂 Project Structure
 
 Main.java 
+
 ├── Applicant (Node class) 
+
 ├── ApplicantBST (BST operations)
+
 └── Main (Menu-driven execution)
 ------------------------------------------------------------------------
 ## 📘 Features
